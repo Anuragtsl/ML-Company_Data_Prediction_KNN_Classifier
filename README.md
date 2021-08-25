@@ -6,7 +6,7 @@ In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matpl
 
 I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Company_Data_Prediction_KNN_Classifier/blob/main/Classified%20Data)!**
 
 
 # Project Overview
@@ -17,7 +17,7 @@ We'll try to use KNN to create a model that directly predicts a class for a new 
 
 Let's grab it and use it!
 
-***Follow along [notebook]() for more!!***
+***Follow along [notebook](https://github.com/Anuragtsl/ML-Company_Data_Prediction_KNN_Classifier/blob/main/Company%20Data%20Prediction%20KNN%20Classifier.ipynb) for more!!***
 
 # Preview
 
