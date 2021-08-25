@@ -21,11 +21,11 @@ Let's grab it and use it!
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Company_Data_Prediction_KNN_Classifier/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Company_Data_Prediction_KNN_Classifier/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Company_Data_Prediction_KNN_Classifier/blob/main/Images/3.png)
 
 
 
